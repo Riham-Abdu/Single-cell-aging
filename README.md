@@ -31,11 +31,10 @@ Aging reduces stem/progenitor activity and increases mature immune cells in bone
 - Results are exploratory  
 
 ## Structure
-single-cell-aging/
-├── data/
-├── analysis/
-├── presentation/
-└── figures/
+- data/
+- analysis/
+- presentation/
+- figures/
 
 ## Slides
 See presentation/ for slides
