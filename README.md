@@ -38,3 +38,9 @@ Aging reduces stem/progenitor activity and increases mature immune cells in bone
 
 ## Slides
 See presentation/ for slides
+
+## Contributors
+- Betsy George
+- Kevin Ma
+- Rishabh Dey
+- Riham Abdu
