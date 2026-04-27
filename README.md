@@ -35,7 +35,7 @@ single-cell-aging/
 ├── data/
 ├── analysis/
 ├── presentation/
-├── figures/
+└── figures/
 
 ## Slides
 See presentation/ for slides
